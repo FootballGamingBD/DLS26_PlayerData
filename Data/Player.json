@@ -2,7 +2,7 @@
   {
     "id": "16636",
     "popup_id": "popup-federico-valverde-16636",
-    "name": "F. VALVERDE",
+    "name": "VALVERDE",
     "searchName": "FEDERICO VALVERDE",
     "slug": "federico-valverde-legendary",
     "card_type": "legendary",
@@ -43,7 +43,7 @@
   {
     "id": "17799",
     "popup_id": "popup-jude-bellingham-17799",
-    "name": "J. BELLINGHAM",
+    "name": "BELLINGHAM",
     "searchName": "JUDE BELLINGHAM",
     "slug": "jude-bellingham-legendary",
     "card_type": "legendary",
@@ -289,7 +289,7 @@
   {
     "id": "18158",
     "popup_id": "popup-michael-olise-18158",
-    "name": "M. OLISE",
+    "name": "OLISE",
     "searchName": "MICHAEL OLISE",
     "slug": "michael-olise-legendary",
     "card_type": "legendary",
@@ -330,7 +330,7 @@
   {
     "id": "12027",
     "popup_id": "popup-mohamed-salah-12027",
-    "name": "M. SALAH",
+    "name": "SALAH",
     "searchName": "MOHAMED SALAH",
     "slug": "mohamed-salah-legendary",
     "card_type": "legendary",
@@ -371,7 +371,7 @@
   {
     "id": "16390",
     "popup_id": "popup-alessandro-bastoni-16390",
-    "name": "A. BASTONI",
+    "name": "BASTONI",
     "searchName": "ALESSANDRO BASTONI",
     "slug": "alessandro-bastoni-legendary",
     "card_type": "legendary",
@@ -412,7 +412,7 @@
   {
     "id": "14124",
     "popup_id": "popup-emiliano-martinez-14124",
-    "name": "E. MARTÍNEZ",
+    "name": "MARTÍNEZ",
     "searchName": "EMILIANO MARTINEZ",
     "slug": "emiliano-martinez-legendary",
     "card_type": "legendary",
@@ -455,7 +455,7 @@
   {
     "id": "11532",
     "popup_id": "popup-hakan-calhanoglu-11532",
-    "name": "H. ÇALHANOĞLU",
+    "name": "ÇALHANOĞLU",
     "searchName": "HAKAN CALHANOGLU",
     "slug": "hakan-calhanoglu-legendary",
     "card_type": "legendary",
@@ -496,7 +496,7 @@
   {
     "id": "21494",
     "popup_id": "popup-joao-neves-21494",
-    "name": "J. NEVES",
+    "name": "JOÃO NEVES",
     "searchName": "JOAO NEVES",
     "slug": "joao-neves-legendary",
     "card_type": "legendary",
@@ -537,7 +537,7 @@
   {
     "id": "16329",
     "popup_id": "popup-lautaro-martinez-16329",
-    "name": "L. MARTÍNEZ",
+    "name": "MARTÍNEZ",
     "searchName": "LAUTARO MARTINEZ",
     "slug": "lautaro-martinez-legendary",
     "card_type": "legendary",
@@ -578,7 +578,7 @@
   {
     "id": "19159",
     "popup_id": "popup-julian-alvarez-19159",
-    "name": "J. ÁLVAREZ",
+    "name": "ÁLVAREZ",
     "searchName": "JULIAN ALVAREZ",
     "slug": "julian-alvarez-legendary",
     "card_type": "legendary",
@@ -619,7 +619,7 @@
   {
     "id": "19927",
     "popup_id": "popup-khvicha-kvaratskhelia-19927",
-    "name": "K. KVARATSKHELIA",
+    "name": "KVARATSKHELIA",
     "searchName": "KHVICHA KVARATSKHELIA",
     "slug": "khvicha-kvaratskhelia-legendary",
     "card_type": "legendary",
@@ -655,6 +655,47 @@
       "PAS": 84,
       "SHT": 85,
       "TAC": 52
+    }
+  },
+  {
+    "id": "17196",
+    "popup_id": "popup-erling-haaland-17196",
+    "name": "HAALAND",
+    "searchName": "ERLING HAALAND",
+    "slug": "erling-haaland-legendary",
+    "card_type": "legendary",
+    "rating": 86,
+    "Position-box": "Cf.png",
+    "card-bg": "Legendary-nonmax-card.png",
+    "border": "Legendary-nonmax-border.png",
+    "rating_circle": "Nonmax-80-89.png",
+    "game-card-bg": "L-r-c.png",
+    "photo": "17196.webp",
+    "flag": "no.png",
+    "star": "Legendary-nonmax-star.png",
+    "max-star": "Legendary-max-star.png",
+    "club": "Manchester City",
+    "club_code": "t11.png",
+    "nationality": "Norway",
+    "nationality_code": "t706.png",
+    "height": "195 cm",
+    "weight": "88kg",
+    "age": "26",
+    "foot": "Left",
+    "coin": "2970",
+    "max-card": "Legendary-max-card.png",
+    "max-border": "Legendary-max-border.png",
+    "max-rating-circle": "Max-80-89.png",
+    "bio": "Erling Haaland is a Norwegian centre-forward for Manchester City in Dream League Soccer 2026.",
+    "stats": {
+      "SPE": 92,
+      "ACC": 80,
+      "STA": 81,
+      "STR": 93,
+      "CON": 82,
+      "PAS": 78,
+      "SHT": 95,
+      "TAC": 40
     }
   }
 ]
