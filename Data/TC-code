@@ -3,888 +3,660 @@
     "id": "14756",
     "name": "MBAPPÉ",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t199.png"
   },
   {
     "id": "15403",
     "name": "DEMBÉLÉ",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t58"
   },
   {
     "id": "21929",
     "name": "YAMAL",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t105"
   },
   {
     "id": "17196",
     "name": "HAALAND",
     "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "Norway",
-    "nationality_code": "no"
+    "club_code": "t4"
   },
   {
     "id": "10159",
     "name": "KANE",
     "club": "Bayern Munich",
-    "club_code": "BAY",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club_code": "t34"
   },
   {
     "id": "12434",
     "name": "B. FERNANDES",
     "club": "Manchester United",
-    "club_code": "MUN",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club_code": "t9"
   },
   {
     "id": "16636",
     "name": "VALVERDE",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Uruguay",
-    "nationality_code": "uy"
+    "club_code": "t199.png"
   },
   {
     "id": "17799",
     "name": "BELLINGHAM",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club_code": "t199.png"
   },
   {
     "id": "16347",
     "name": "GABRIEL",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club_code": "t1"
   },
   {
     "id": "16327",
     "name": "RODRI",
-    "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Barcelona",
+    "club_code": "t105"
   },
   {
     "id": "15226",
     "name": "RAPHINHA",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club_code": "t105"
   },
   {
     "id": "17811",
     "name": "N. MENDES",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club_code": "t58"
   },
   {
     "id": "18158",
     "name": "OLISE",
-    "club": "Bayern Munich",
-    "club_code": "BAY",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club": "Crystal Palace",
+    "club_code": "t19"
   },
   {
     "id": "18183",
     "name": "VITINHA",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club_code": "t58"
   },
   {
     "id": "7307",
     "name": "VAN DIJK",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Netherlands",
-    "nationality_code": "nl"
+    "club_code": "t10"
   },
   {
     "id": "17763",
     "name": "GONZÁLEZ LÓPEZ",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t105"
   },
   {
     "id": "7458",
     "name": "COURTOIS",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Belgium",
-    "nationality_code": "be"
+    "club_code": "t199.png"
   },
   {
     "id": "16320",
     "name": "VINI JR.",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club_code": "t199.png"
   },
   {
     "id": "15932",
     "name": "HAKIMI",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Morocco",
-    "nationality_code": "ma"
+    "club_code": "t58"
   },
   {
     "id": "16322",
     "name": "RICE",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club_code": "t1"
   },
   {
     "id": "14078",
     "name": "DONNARUMMA",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t58"
   },
   {
     "id": "17207",
     "name": "DÍAZ",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Colombia",
-    "nationality_code": "co"
+    "club_code": "t10"
   },
   {
     "id": "17272",
     "name": "SZOBOSZLAI",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Hungary",
-    "nationality_code": "hu"
+    "club_code": "t10"
   },
   {
     "id": "17588",
     "name": "SAKA",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club_code": "t1"
   },
   {
     "id": "18130",
     "name": "DIMARCO",
     "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t72"
   },
   {
     "id": "14939",
     "name": "A.BECKER",
-    "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club": "Paris Saint-Germain",
+    "club_code": "t58"
   },
   {
     "id": "16412",
     "name": "RAYA",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t1"
   },
   {
     "id": "17387",
     "name": "SALIBA",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t1"
   },
   {
     "id": "19927",
     "name": "KVARATSKHELIA",
-    "club": "Napoli",
-    "club_code": "NAP",
-    "nationality": "Georgia",
-    "nationality_code": "ge"
+    "club": "Paris Saint-Germain",
+    "club_code": "t58"
   },
   {
     "id": "12027",
     "name": "SALAH",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Egypt",
-    "nationality_code": "eg"
+    "club_code": "t10"
   },
   {
     "id": "16390",
     "name": "BASTONI",
     "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t72"
   },
   {
     "id": "14124",
     "name": "MARTÍNEZ",
     "club": "Aston Villa",
-    "club_code": "AVL",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club_code": "t1"
   },
   {
     "id": "11532",
     "name": "ÇALHANOĞLU",
     "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "Turkey",
-    "nationality_code": "tr"
+    "club_code": "t72"
   },
   {
     "id": "21494",
     "name": "JOÃO NEVES",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club_code": "t58"
   },
   {
     "id": "16329",
     "name": "MARTÍNEZ",
-    "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club": "Real Madrid",
+    "club_code": "t199.png"
   },
   {
     "id": "19159",
     "name": "ALVAREZ",
-    "club": "Atlético Madrid",
-    "club_code": "ATM",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club": "Manchester City",
+    "club_code": "t4"
   },
   {
     "id": "16321",
     "name": "LLORENTE",
     "club": "Atlético Madrid",
-    "club_code": "ATM",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t3"
   },
   {
     "id": "182",
     "name": "MESSI",
     "club": "Inter Miami",
-    "club_code": "MIA",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club_code": "t199.png"
   },
   {
     "id": "17319",
     "name": "OSIMHEN",
-    "club": "Napoli",
-    "club_code": "NAP",
-    "nationality": "Nigeria",
-    "nationality_code": "ng"
+    "club": "Galatasaray",
+    "club_code": "t88"
   },
   {
     "id": "18191",
     "name": "UPAMECANO",
     "club": "Bayern Munich",
-    "club_code": "BAY",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t34"
   },
   {
     "id": "15229",
     "name": "GRIMALDO",
-    "club": "Bayer Leverkusen",
-    "club_code": "LEV",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Liverpool",
+    "club_code": "t10"
   },
   {
     "id": "16359",
     "name": "BREMER",
     "club": "Juventus",
-    "club_code": "JUV",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club_code": "t68"
   },
   {
     "id": "15462",
     "name": "HERNÁNDEZ",
-    "club": "AC Milan",
-    "club_code": "MIL",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club": "Al-Hilal",
+    "club_code": "t30"
   },
   {
     "id": "19041",
     "name": "CAICEDO",
     "club": "Chelsea",
-    "club_code": "CHE",
-    "nationality": "Ecuador",
-    "nationality_code": "ec"
+    "club_code": "t6"
   },
   {
     "id": "2602",
     "name": "BENZEMA",
     "club": "Al-Ittihad",
-    "club_code": "ITH",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t30"
   },
   {
     "id": "19544",
     "name": "GARCÍA",
-    "club": "Espanyol",
-    "club_code": "ESP",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Barcelona",
+    "club_code": "t105"
   },
   {
     "id": "14738",
     "name": "BARELLA",
     "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t72"
   },
   {
     "id": "4739",
     "name": "KROOS",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Germany",
-    "nationality_code": "de"
+    "club_code": "t199.png"
   },
   {
     "id": "15929",
     "name": "MCTOMINAY",
-    "club": "Napoli",
-    "club_code": "NAP",
-    "nationality": "Scotland",
-    "nationality_code": "gb-sct"
+    "club": "Manchester United",
+    "club_code": "t9"
   },
   {
     "id": "15307",
     "name": "DE JONG",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Netherlands",
-    "nationality_code": "nl"
+    "club_code": "t105"
   },
   {
     "id": "16568",
     "name": "KOUNDÉ",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t105"
   },
   {
     "id": "15467",
     "name": "MAIGNAN",
     "club": "AC Milan",
-    "club_code": "MIL",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t76"
   },
   {
     "id": "21336",
     "name": "PACHO",
-    "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Ecuador",
-    "nationality_code": "ec"
+    "club": "Inter Miami",
+    "club_code": "t199.png"
   },
   {
     "id": "17270",
     "name": "GRAVENBERCH",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Netherlands",
-    "nationality_code": "nl"
+    "club_code": "t10"
   },
   {
     "id": "2862",
     "name": "LEWANDOWSKI",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Poland",
-    "nationality_code": "pl"
+    "club_code": "t105"
   },
   {
     "id": "15227",
     "name": "EDERSON M.",
-    "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club": "Fenerbahçe",
+    "club_code": "t88"
   },
   {
     "id": "19913",
     "name": "WIRTZ",
-    "club": "Bayer Leverkusen",
-    "club_code": "LEV",
-    "nationality": "Germany",
-    "nationality_code": "de"
+    "club": "Bayern Munich",
+    "club_code": "t34"
   },
   {
     "id": "17566",
     "name": "BRUNO G.",
-    "club": "Newcastle United",
-    "club_code": "NEW",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club": "Arsenal",
+    "club_code": "t1"
   },
   {
     "id": "19920",
     "name": "KOBEL",
-    "club": "Borussia Dortmund",
-    "club_code": "BVB",
-    "nationality": "Switzerland",
-    "nationality_code": "ch"
+    "club": "Manchester City",
+    "club_code": "t4"
   },
   {
     "id": "7957",
     "name": "DE BRUYNE",
-    "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "Belgium",
-    "nationality_code": "be"
+    "club": "Napoli",
+    "club_code": "t77"
   },
   {
     "id": "12336",
     "name": "OBLAK",
     "club": "Atlético Madrid",
-    "club_code": "ATM",
-    "nationality": "Slovenia",
-    "nationality_code": "si"
+    "club_code": "t3"
   },
   {
     "id": "19972",
     "name": "FERNÁNDEZ",
     "club": "Chelsea",
-    "club_code": "CHE",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club_code": "t6"
   },
   {
     "id": "15400",
     "name": "ALEXANDER-ARNOLD",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club_code": "t10"
   },
   {
     "id": "19396",
     "name": "GVARDIOL",
     "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "Croatia",
-    "nationality_code": "hr"
+    "club_code": "t4"
   },
   {
     "id": "382",
     "name": "RONALDO",
     "club": "Al-Nassr",
-    "club_code": "NAS",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club_code": "t30"
   },
   {
     "id": "21144",
     "name": "PAZ",
     "club": "Como",
-    "club_code": "COM",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club_code": "t16"
   },
   {
     "id": "12375",
     "name": "KOULIBALY",
-    "club": "Al-Hilal",
-    "club_code": "HIL",
-    "nationality": "Senegal",
-    "nationality_code": "sn"
+    "club": "Galatasaray",
+    "club_code": "t88"
   },
   {
     "id": "1498",
     "name": "MODRIĆ",
-    "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Croatia",
-    "nationality_code": "hr"
+    "club": "AC Milan",
+    "club_code": "t76"
   },
   {
     "id": "17248",
     "name": "TONALI",
     "club": "Newcastle United",
-    "club_code": "NEW",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t15"
   },
   {
     "id": "16257",
     "name": "FODEN",
     "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club_code": "t4"
   },
   {
     "id": "12480",
     "name": "RÜDIGER",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Germany",
-    "nationality_code": "de"
+    "club_code": "t199.png"
   },
   {
     "id": "17125",
     "name": "TCHOUAMÉNI",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t199.png"
   },
   {
     "id": "15162",
     "name": "LOCATELLI",
     "club": "Juventus",
-    "club_code": "JUV",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t68"
   },
   {
     "id": "14640",
     "name": "JAMES",
-    "club": "Chelsea",
-    "club_code": "CHE",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club": "Real Madrid",
+    "club_code": "t199.png"
   },
   {
     "id": "13747",
     "name": "MILINKOVIĆ-SAVIĆ",
-    "club": "Al-Hilal",
-    "club_code": "HIL",
-    "nationality": "Serbia",
-    "nationality_code": "rs"
+    "club": "Inter Milan",
+    "club_code": "t72"
   },
   {
     "id": "18877",
     "name": "GYÖKERES",
     "club": "Sporting CP",
-    "club_code": "SCP",
-    "nationality": "Sweden",
-    "nationality_code": "se"
+    "club_code": "t199.png"
   },
   {
     "id": "12197",
     "name": "SOMMER",
-    "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "Switzerland",
-    "nationality_code": "ch"
+    "club": "Barcelona",
+    "club_code": "t105"
   },
   {
     "id": "10048",
     "name": "XHAKA",
     "club": "Bayer Leverkusen",
-    "club_code": "LEV",
-    "nationality": "Switzerland",
-    "nationality_code": "ch"
+    "club_code": "t34"
   },
   {
     "id": "15672",
     "name": "THURAM",
     "club": "Inter Milan",
-    "club_code": "INT",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t72"
   },
   {
     "id": "20770",
     "name": "DOUÉ",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t58"
   },
   {
     "id": "11114",
     "name": "RABIOT",
-    "club": "Olympique de Marseille",
-    "club_code": "OM",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club": "Juventus",
+    "club_code": "t68"
   },
   {
     "id": "16288",
     "name": "RÚBEN",
-    "club": "Manchester City",
-    "club_code": "MCI",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club": "Real Madrid",
+    "club_code": "t199.png"
   },
   {
     "id": "1892",
     "name": "NEYMAR JR.",
-    "club": "Al-Hilal",
-    "club_code": "HIL",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club": "Santos",
+    "club_code": "t199.png"
   },
   {
     "id": "11519",
     "name": "MARQUINHOS",
     "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Brazil",
-    "nationality_code": "br"
+    "club_code": "t58"
   },
   {
     "id": "10047",
     "name": "CARVAJAL",
     "club": "Real Madrid",
-    "club_code": "RMA",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t199.png"
   },
   {
     "id": "23268",
     "name": "LÓPEZ",
-    "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Atlético Madrid",
+    "club_code": "t3"
   },
   {
     "id": "18243",
     "name": "MAC ALLISTER",
-    "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "Argentina",
-    "nationality_code": "ar"
+    "club": "Chelsea",
+    "club_code": "t6"
   },
   {
     "id": "16348",
     "name": "RAFA LEÃO",
     "club": "AC Milan",
-    "club_code": "MIL",
-    "nationality": "Portugal",
-    "nationality_code": "pt"
+    "club_code": "t76"
   },
   {
     "id": "18154",
     "name": "TIMBER",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "Netherlands",
-    "nationality_code": "nl"
+    "club_code": "t1"
   },
   {
     "id": "18122",
     "name": "ZUBIMENDI",
     "club": "Real Sociedad",
-    "club_code": "SOC",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t199.png"
   },
   {
     "id": "12413",
     "name": "SANÉ",
     "club": "Bayern Munich",
-    "club_code": "BAY",
-    "nationality": "Germany",
-    "nationality_code": "de"
+    "club_code": "t34"
   },
   {
     "id": "14961",
     "name": "RUIZ",
-    "club": "Paris Saint-Germain",
-    "club_code": "PSG",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Real Madrid",
+    "club_code": "t199.png"
   },
   {
     "id": "11850",
     "name": "TIELEMANS",
-    "club": "Aston Villa",
-    "club_code": "AVL",
-    "nationality": "Belgium",
-    "nationality_code": "be"
+    "club": "Fenerbahçe",
+    "club_code": "t88"
   },
   {
     "id": "17237",
     "name": "ISAK",
     "club": "Newcastle United",
-    "club_code": "NEW",
-    "nationality": "Sweden",
-    "nationality_code": "se"
+    "club_code": "t15"
   },
   {
     "id": "17089",
     "name": "MBEUMO",
     "club": "Brentford",
-    "club_code": "BRE",
-    "nationality": "Cameroon",
-    "nationality_code": "cm"
+    "club_code": "t199.png"
   },
   {
     "id": "13728",
     "name": "ØDEGAARD",
     "club": "Arsenal",
-    "club_code": "ARS",
-    "nationality": "Norway",
-    "nationality_code": "no"
+    "club_code": "t1"
   },
   {
     "id": "5264",
     "name": "GRIEZMANN",
     "club": "Atlético Madrid",
-    "club_code": "ATM",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t3"
   },
   {
     "id": "18422",
     "name": "ROGERS",
-    "club": "Aston Villa",
-    "club_code": "AVL",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club": "Villarreal",
+    "club_code": "t199.png"
   },
   {
     "id": "17474",
     "name": "SIMÓN",
-    "club": "Athletic Bilbao",
-    "club_code": "ATH",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Atlético Madrid",
+    "club_code": "t3"
   },
   {
     "id": "17860",
     "name": "KONATÉ",
     "club": "Liverpool",
-    "club_code": "LIV",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club_code": "t10"
   },
   {
     "id": "13739",
     "name": "GARCÍA",
-    "club": "Bayer Leverkusen",
-    "club_code": "LEV",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Barcelona",
+    "club_code": "t105"
   },
   {
     "id": "9713",
     "name": "CARNESECCHI",
     "club": "Atalanta",
-    "club_code": "ATA",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club_code": "t199.png"
   },
   {
     "id": "19921",
     "name": "OLMO",
     "club": "Barcelona",
-    "club_code": "BAR",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club_code": "t105"
   },
   {
     "id": "17071",
     "name": "GREENWOOD",
-    "club": "Marseille",
-    "club_code": "OM",
-    "nationality": "England",
-    "nationality_code": "gb-eng"
+    "club": "Fenerbahçe",
+    "club_code": "t88"
   },
   {
     "id": "2458",
     "name": "CHIELLINI",
-    "club": "Juventus",
-    "club_code": "JUV",
-    "nationality": "Italy",
-    "nationality_code": "it"
+    "club": "Retired",
+    "club_code": ""
   },
   {
     "id": "17074",
     "name": "PULISIC",
-    "club": "AC Milan",
-    "club_code": "MIL",
-    "nationality": "United States",
-    "nationality_code": "us"
+    "club": "Chelsea",
+    "club_code": "t6"
   },
   {
     "id": "17706",
     "name": "CHERKI",
-    "club": "Lyon",
-    "club_code": "OL",
-    "nationality": "France",
-    "nationality_code": "fr"
+    "club": "Real Sociedad",
+    "club_code": "t199.png"
   },
   {
     "id": "19481",
     "name": "LAIMER",
-    "club": "Bayern Munich",
-    "club_code": "BAY",
-    "nationality": "Austria",
-    "nationality_code": "at"
+    "club": "RB Leipzig",
+    "club_code": "t199.png"
   },
   {
     "id": "21397",
     "name": "BARRIOS",
-    "club": "Atlético Madrid",
-    "club_code": "ATM",
-    "nationality": "Spain",
-    "nationality_code": "es"
+    "club": "Real Madrid",
+    "club_code": "t199.png"
   },
   {
     "id": "14955",
     "name": "SCHICK",
-    "club": "Bayer Leverkusen",
-    "club_code": "LEV",
-    "nationality": "Czech Republic",
-    "nationality_code": "cz"
-  },
-  {
-    "id": "10074",
-    "name": "SON",
-    "club": "Tottenham Hotspur",
-    "club_code": "TOT",
-    "nationality": "South Korea",
-    "nationality_code": "kr"
+    "club": "Bayern Munich",
+    "club_code": "t34"
   }
 ]
