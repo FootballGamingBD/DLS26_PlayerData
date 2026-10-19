@@ -2848,7 +2848,7 @@
     "max-rating-circle": "Max-80-89.png",
     "bio": "Morgan Rogers is an English attacking midfielder for Aston Villa in Dream League Soccer 2026.",
     "stats": { "SPE": 80, "ACC": 84, "STA": 84, "STR": 72, "CON": 83, "PAS": 81, "SHT": 80, "TAC": 53 }
-  }[
+  }
   {
     "id": "5264",
     "popup_id": "popup-antoine-griezmann-5264",
@@ -4648,7 +4648,7 @@
     "max-rating-circle": "Max-80-89.png",
     "bio": "William Saliba is a French centre back for Arsenal in Dream League Soccer 2026.",
     "stats": { "SPE": 83, "ACC": 75, "STA": 81, "STR": 86, "CON": 80, "PAS": 82, "SHT": 49, "TAC": 93 }
-  }[
+  }
   {
     "id": "15403",
     "popup_id": "popup-ousmane-dembélé-15403",
