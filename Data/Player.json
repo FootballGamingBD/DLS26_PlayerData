@@ -1,4 +1,5 @@
-{
+[
+ {
   "id": "14955",
   "popup_id": "popup-patrik-schick-14955",
   "name": "SCHICK",
@@ -5429,5 +5430,3 @@
     "stats": { "SPE": 58, "ACC": 55, "GKR": 84, "STR": 68, "CON": 61, "PAS": 66, "GKH": 80, "TAC": 43 }
   }
 ]
-
-
